@@ -12,5 +12,4 @@ For example, here is a sentence from a clinical report:
 
 We compared the inter-day reproducibility of post-occlusive reactive hyperemia (PORH) assessed by single-point laser Doppler flowmetry (LDF) and laser speckle contrast analysis (LSCI).
 
-In the sentence given, 
-## reactive hyperemia (in bold) is the named entity with the type disease/indication.
+In the sentence given, **reactive hyperemia (in bold) is the named entity with the type disease/indication.**
