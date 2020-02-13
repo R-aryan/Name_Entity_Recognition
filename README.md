@@ -18,3 +18,9 @@ In the sentence given, **reactive hyperemia (in bold) is the named entity with t
 ## Data Description
 
 **The train file has the following structure:**
+
+-- id	Unique     ID for a token/word
+-- Doc_ID	       Unique ID for a Document/Paragraph
+-- Sent_ID	     Unique ID for a Sentence
+-- Word	         Exact word/token
+-- tag (Target)  Named Entity Tag
