@@ -24,3 +24,6 @@ In the sentence given, **reactive hyperemia (in bold) is the named entity with t
 - Sent_ID-------->Unique ID for a Sentence
 - Word----------->Exact word/token
 - tag (Target)------>Named Entity Tag
+
+
+The target ‘tag’ follows the Inside-outside-beginning (IOB) tagging format. The IOB format (short for inside, outside, beginning) is a common tagging format for tagging tokens in named entity recognition. The target ‘tag’ has three kinds of tags.
