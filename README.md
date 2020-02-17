@@ -27,3 +27,8 @@ In the sentence given, **reactive hyperemia (in bold) is the named entity with t
 
 
 The target ‘tag’ follows the Inside-outside-beginning (IOB) tagging format. The IOB format (short for inside, outside, beginning) is a common tagging format for tagging tokens in named entity recognition. The target ‘tag’ has three kinds of tags
+
+
+- B-indications : Beginning tag indicates that the token is the beginning of a disease entity (disease name in this case).
+- I-indications : Inside tag indicates that the token is inside an entity.
+- O : Outside tag indicates that a token is outside a disease entity.
