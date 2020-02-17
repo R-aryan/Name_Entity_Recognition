@@ -32,3 +32,6 @@ The target ‘tag’ follows the Inside-outside-beginning (IOB) tagging format. 
 - **B-indications :** Beginning tag indicates that the token is the beginning of a disease entity (disease name in this case).
 - **I-indications :** Inside tag indicates that the token is inside an entity.
 - **O-indications** : Outside tag indicates that a token is outside a disease entity.
+
+
+Therefore, any word which does not represent the disease name has to be classified as “O” tag. Similarly, the first word of disease name has to be classified as “B-Indication” and following words of disease name as “I-Indication”.
