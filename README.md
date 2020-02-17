@@ -35,3 +35,5 @@ The target ‘tag’ follows the Inside-outside-beginning (IOB) tagging format. 
 
 
 Therefore, any word which does not represent the disease name has to be classified as “O” tag. Similarly, the first word of disease name has to be classified as “B-Indication” and following words of disease name as “I-Indication”.
+
+- Dataset can be downloaded from here[https://www.kaggle.com/rsnayak/hackathon-disease-extraction-saving-lives-with-ai]
