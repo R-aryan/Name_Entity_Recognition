@@ -34,6 +34,6 @@ The target ‘tag’ follows the Inside-outside-beginning (IOB) tagging format. 
 - **O-indications** : Outside tag indicates that a token is outside a disease entity.
 
 
-Therefore, any word which does not represent the disease name has to be classified as “O” tag. Similarly, the first word of disease name has to be classified as “B-Indication” and following words of disease name as “I-Indication”.
+Therefore, any word which does not represent the disease name has to be classified as “O” tag. Similarly, the first word of disease name has to be classified as **“B-Indication” and following words of disease name as “I-Indication”**.
 
 - [Dataset can be downloaded from here](https://www.kaggle.com/rsnayak/hackathon-disease-extraction-saving-lives-with-ai)
